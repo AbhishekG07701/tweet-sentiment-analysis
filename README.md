@@ -1,3 +1,4 @@
+Twitter Sentiment Analysis
 # **Twitter Sentiment Analysis using Machine Learning** 🚀  
 
 ## 📌 **Overview**  
@@ -13,7 +14,7 @@ This project analyzes tweets to classify sentiment into **Positive, Negative, Ne
 ---
 
 ## 📂 **Dataset Information**  
-- **Source:** [Insert Kaggle Dataset Link]  
+- **Source:** [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
 - **Columns:**  
   - `id` → Unique tweet identifier  
   - `game/company` → Associated topic or entity  
